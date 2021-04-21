@@ -1,0 +1,6 @@
+
+"NSLocationWhenInUseUsageDescription" = "Big brother needs your geolocation to tracking";
+"NSLocationAlwaysUsageDescription" = "Big brother needs your geolocation to tracking";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Big brother needs your geolocation to tracking";
+
+"NSBluetoothAlwaysUsageDescription" = "Big brother needs bluetooth access to tracking";

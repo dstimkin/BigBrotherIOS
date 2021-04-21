@@ -1,0 +1,6 @@
+
+"NSLocationWhenInUseUsageDescription" = "Приложению требуется ваша геолокация для отслеживания";
+"NSLocationAlwaysUsageDescription" = "Приложению требуется ваша геолокация для отслеживания";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Приложению требуется ваша геолокация для отслеживания";
+
+"NSBluetoothAlwaysUsageDescription" = "Приложению требуется доступ к bluetooth для отслеживания";

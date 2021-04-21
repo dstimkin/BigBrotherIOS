@@ -1,0 +1,61 @@
+
+/* Tab names */
+"Tabs.trackActivationTab" = "Отслеживание";
+"Tabs.scenarioTab" = "Сценарии";
+"Tabs.profileTab" = "Профиль";
+
+/*Authentication RIB */
+"Authentication.serverLabel" = "Сервер";
+"Authentication.loginLabel" = "Логин";
+"Authentication.passwordLabel" = "Пароль";
+"Authentication.signInButton" = "Войти";
+
+"Authentication.InvalidCredentialsErrorAlert.title" = "Неверный логин или пароль";
+"Authentication.InvalidCredentialsErrorAlert.message" = "";
+"Authentication.InvalidCredentialsErrorAlert.okButton" = "OK";
+
+"Authentication.InvalidHostErrorAlert.title" = "Вы ввели неверный формат адреса";
+"Authentication.InvalidHostErrorAlert.message" = "";
+"Authentication.InvalidHostErrorAlert.okButton" = "OK";
+
+"Authentication.InternalErrorAlert.title" = "Что-то пошло не так";
+"Authentication.InternalErrorAlert.message" = "Попробуйте повторить познее";
+"Authentication.InternalErrorAlert.okButton" = "ОК";
+
+"Authentication.EmptyFieldAlert.title" = "Упс, форма не была заполнена";
+"Authentication.EmptyFieldAlert.message" = "Введите ваш логин и пароль";
+"Authentication.EmptyFieldAlert.okButton" = "ОК";
+
+/* Profile RIB */
+"Profile.exitButtonLabel" = "Выйти";
+
+"Profile.ConfirmationAlert.title" = "Вы уверены, что хотите выйти?";
+"Profile.ConfirmationAlert.confirmButtonTitle" = "Выйти";
+"Profile.ConfirmationAlert.rejectButtonTitle" = "Отмена";
+
+/* TrackActivation RIB */
+"TrackActivation.navBarTitle" = "Последние контакты";
+
+"TrackActivation.trackingActivatedTitle" = "Отслеживание включено";
+"TrackActivation.trackingDeactivatedTitle" = "Отслеживание выключено";
+
+"TrackActivation.headerIdTitle" = "ID";
+"TrackActivation.headerDateTitle" = "Время контакта";
+
+"TrackActivation.TrackingAlert.title" = "Произошла ошибка отслеживания";
+"TrackActivation.TrackingAlert.message" = "Проверьте, что приложение имеет доступ к вашей геолокации и технологии bluetooth";
+"TrackActivation.TrackingAlert.okButton" = "OK";
+
+/* Scenario RIB */
+"Scenario.navBarTitle" = "Сценарии";
+
+"Scenario.ConcreteScenario.period1" = "Повторять каждые";
+"Scenario.ConcreteScenario.period2" = "минут";
+"Scenario.ConcreteScenario.userGroup" = "Группа";
+"Scenario.ConcreteScenario.andRelation" = "Все должны учавствовать";
+"Scenario.ConcreteScenario.orRelation" = "Хотя бы кто-то должен учавствовать";
+"Scenario.ConcreteScenario.minimumParticipants" = "Минимум участников:";
+
+/* Notifications */
+"Notifications.AppWillTerminate.title" = "Приложение вот-вот закроется";
+"Notifications.AppWillTerminate.subtitle" = "Откройте, чтобы продолжить отслеживание";

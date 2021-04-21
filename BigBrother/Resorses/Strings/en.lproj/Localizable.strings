@@ -1,0 +1,61 @@
+
+/* Tab names */
+"Tabs.trackActivationTab" = "Tracking";
+"Tabs.scenarioTab" = "Scenarios";
+"Tabs.profileTab" = "Profile";
+
+/* Authentication RIB */
+"Authentication.serverLabel" = "Server";
+"Authentication.loginLabel" = "Login";
+"Authentication.passwordLabel" = "Password";
+"Authentication.signInButton" = "Sign in";
+
+"Authentication.InvalidCredentialsErrorAlert.title" = "Invalid login or password";
+"Authentication.InvalidCredentialsErrorAlert.message" = "";
+"Authentication.InvalidCredentialsErrorAlert.okButton" = "OK";
+
+"Authentication.InvalidHostErrorAlert.title" = "You entered invalid server name";
+"Authentication.InvalidHostErrorAlert.message" = "";
+"Authentication.InvalidHostErrorAlert.okButton" = "OK";
+
+"Authentication.InternalErrorAlert.title" = "Something went wrong";
+"Authentication.InternalErrorAlert.message" = "Try again later";
+"Authentication.InternalErrorAlert.okButton" = "OK";
+
+"Authentication.EmptyFieldAlert.title" = "Whoops, one of fields is empty";
+"Authentication.EmptyFieldAlert.message" = "Enter your login and password";
+"Authentication.EmptyFieldAlert.okButton" = "OK";
+
+/* Profile RIB */
+"Profile.exitButtonLabel" = "Exit";
+
+"Profile.ConfirmationAlert.title" = "Are you sure you want to exit?";
+"Profile.ConfirmationAlert.confirmButtonTitle" = "Exit";
+"Profile.ConfirmationAlert.rejectButtonTitle" = "Cancel";
+
+/* TrackActivation RIB */
+"TrackActivation.navBarTitle" = "Last contacts";
+
+"TrackActivation.trackingActivatedTitle" = "Tracking is enabled";
+"TrackActivation.trackingDeactivatedTitle" = "Tracking is disabled";
+
+"TrackActivation.headerIdTitle" = "ID";
+"TrackActivation.headerDateTitle" = "Contact time";
+
+"TrackActivation.TrackingAlert.title" = "Tracking error did occur";
+"TrackActivation.TrackingAlert.message" = "Check that app have access to your geolocation and bluetooth";
+"TrackActivation.TrackingAlert.okButton" = "OK";
+
+/* Scenario RIB */
+"Scenario.navBarTitle" = "Scenarios";
+
+"Scenario.ConcreteScenario.period1" = "Repeat every";
+"Scenario.ConcreteScenario.period2" = "minutes";
+"Scenario.ConcreteScenario.userGroup" = "User group";
+"Scenario.ConcreteScenario.andRelation" = "All of members should participate";
+"Scenario.ConcreteScenario.orRelation" = "Some of members should participate";
+"Scenario.ConcreteScenario.minimumParticipants" = "Minimum participants:";
+
+/* Notifications */
+"Notifications.AppWillTerminate.title" = "App is going to terminate";
+"Notifications.AppWillTerminate.subtitle" = "Open it to continue tracking";
